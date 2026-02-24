@@ -14,13 +14,14 @@ This game runs completely in the terminal/command prompt and allows a user to pl
 <br>
 3. Random computer choice
 <br>
-Input validation
+4.Input validation
 <br>
-4. Simple and beginner-friendly logic
+5. Simple and beginner-friendly logic
 <br>
-5. Easy to modify and improve
+6. Easy to modify and improve
 <br>
 <br>
+
 # Technologies Used
 <br>
 Python 3
@@ -74,6 +75,7 @@ The winner will be displayed in the terminal.
 Same choices result in a Draw
 <br>
 <br>
+
 # Future Improvements
 <br>
 1. Add score tracking
