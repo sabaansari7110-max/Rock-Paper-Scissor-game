@@ -41,11 +41,16 @@ random module
 3. Open terminal in the project folder.
 <br>
 4. Run the game:<br>
-Bash<br>
+Bash
+<br>
+                                    02_Rock_Paper_Scissor.py       
+<br>                             
 Copy code
 <br>
-           python rock_paper_scissors.py
+                                    python rock_paper_scissors.py
 <br>
+<br>
+Make sure python is isntalled.
 <br>
 
 # 🎯 How to Play
