@@ -46,6 +46,7 @@ Bash
 
 ```bash
           02_Rock_Paper_Scissor.py
+```
 
 <br>                             
 Copy code
@@ -53,7 +54,8 @@ Copy code
 
 ```python 
            rock_paper_scissors.py
-           
+```
+         
 <br>
 <br>
 Make sure python is isntalled.
