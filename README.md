@@ -43,15 +43,17 @@ random module
 4. Run the game:<br>
 Bash
 <br>
+
 ```bash
-          02_Rock_Paper_Scissor.py 
-```
+          02_Rock_Paper_Scissor.py
+
 <br>                             
 Copy code
 <br>
+
 ```python 
            rock_paper_scissors.py
-```
+           
 <br>
 <br>
 Make sure python is isntalled.
