@@ -19,7 +19,7 @@ Input validation
 <br>
 5.Easy to modify and improve
 <br>
-v
+<br>
 #Technologies Used
 <br>
 Python 3
