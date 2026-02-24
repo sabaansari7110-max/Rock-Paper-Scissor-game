@@ -5,6 +5,7 @@ A simple Rock Paper Scissors game built using Python.
 This game runs completely in the terminal/command prompt and allows a user to play against the computer.
 <br>
 <br>
+
 # 📌 Features
 <br>
 1. Runs in terminal (no GUI required)
@@ -27,6 +28,7 @@ Python 3
 random module
 <br>
 <br>
+
 # 🚀 How to Run
 <br>
 1. Make sure Python is installed on your system.
@@ -60,6 +62,7 @@ The computer will randomly choose one option.
 The winner will be displayed in the terminal.
 <br>
 <br>
+
 # Game Logic
 <br>
 1. Rock beats Scissors
@@ -83,12 +86,14 @@ Same choices result in a Draw
 <br>
 5. Deploy online version
 <br>
-<br>
+<br> 
+
 # Author
 <br>
 Created as part of Python learning journey to strengthen programming fundamentals and logical thinking.
 <br>
 <br>
+
 # 📜 License
 <br>
 This project is licensed under the MIT License.
@@ -96,6 +101,7 @@ This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project with proper attribution.
 <br>
 <br>
+
 # Contribution
 <br>
 This is a beginner project.
