@@ -117,7 +117,7 @@ else:
          
 <br>
 <br>
-Make sure python is isntalled.
+Make sure python is installed.
 <br>
 
 # 🎯 How to Play
